@@ -1,10 +1,12 @@
 # Stochastic_PredNet
 
-Data and code repository for the paper 
+Repository for codes and a sample of data for the paper:
 
 "Coupling a neural network with a spatial dowscaling procedure to improve probabilistic nowcast for urban rain radars"
 
-submitted for pubblication to MDPI journal : "Remote Sensing"
+submitted for pubblication to MDPI journal : "Remote Sensing".
+
+To get access to the full data set, please contact the authors of the article sending an email to marino.marrocu@crs4.it
 
 After installing torch and pysteps library with pip:
 
