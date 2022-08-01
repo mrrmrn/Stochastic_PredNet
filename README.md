@@ -8,7 +8,7 @@ submitted for pubblication to MDPI journal : "Remote Sensing".
 
 To get access to the full data set, please contact the authors of the article sending an email to marino.marrocu@crs4.it
 
-After installing torch and pysteps library with pip:
+After installing torch and pysteps libraries, for example with:
 
 pip install torch
 
