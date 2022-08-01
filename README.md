@@ -7,10 +7,15 @@ Data and code repository for the paper
 submitted for pubblication to MDPI journal : "Remote Sensing"
 
 After installing torch and pysteps library with pip:
+
 pip install torch
+
 pip install pysteps
+
 the notebook: 
+
 Stochastic_PredNet.ipynb
+
 which implements the nowvast methodology described in the paper can be run.
 An example of the input and output files obained wiuth the notebook is shown below.
 
