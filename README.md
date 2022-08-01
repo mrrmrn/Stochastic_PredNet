@@ -1,12 +1,14 @@
 # Stochastic_PredNet
 
+The map of Japan in which is highlighted the area that represents the domain covered by the weather radar whose data are used in this study
+
+![JapanRadarDomain](https://user-images.githubusercontent.com/32863682/182106966-8595738a-b0a7-420e-b9e0-885da39a4149.jpg)
+
 Repository for codes and a sample of data for the paper:
 
 "Coupling a neural network with a spatial dowscaling procedure to improve probabilistic nowcast for urban rain radars"
 
 submitted for pubblication to MDPI journal : "Remote Sensing".
-
-To get access to the full data set, please contact the authors of the article sending an email to marino.marrocu@crs4.it
 
 After installing torch and pysteps libraries, for example with:
 
@@ -19,12 +21,8 @@ the notebook:
 Stochastic_PredNet.ipynb
 
 which implements the nowcast methodology described in the paper can be run.
-An example of the input and output files obained wiuth the notebook is shown below.
-
-
-The map of Japan in which is highlighted the area that represents the domain covered by the weather radar whose data are used in this study
-
-![JapanRadarDomain](https://user-images.githubusercontent.com/32863682/182106966-8595738a-b0a7-420e-b9e0-885da39a4149.jpg)
+An example of the input and output files obained with the notebook is shown below.
+To get access to the full data set, please contact the authors of the article sending an email to marino.marrocu@crs4.it
 
 An example of data input: one hour of observations
 ![obs_ass](https://user-images.githubusercontent.com/32863682/182146554-100d361d-9001-456b-8a4b-35a69f0fd7d8.png)
