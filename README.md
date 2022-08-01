@@ -16,7 +16,7 @@ the notebook:
 
 Stochastic_PredNet.ipynb
 
-which implements the nowvast methodology described in the paper can be run.
+which implements the nowcast methodology described in the paper can be run.
 An example of the input and output files obained wiuth the notebook is shown below.
 
 
