@@ -6,6 +6,15 @@ Data and code repository for the paper
 
 submitted for pubblication to MDPI journal : "Remote Sensing"
 
+After installing torch and pysteps library with pip:
+pip install torch
+pip install pysteps
+the notebook: 
+Stochastic_PredNet.ipynb
+which implements the nowvast methodology described in the paper can be run.
+An example of the input and output files obained wiuth the notebook is shown below.
+
+
 The map of Japan in which is highlighted the area that represents the domain covered by the weather radar whose data are used in this study
 
 ![JapanRadarDomain](https://user-images.githubusercontent.com/32863682/182106966-8595738a-b0a7-420e-b9e0-885da39a4149.jpg)
