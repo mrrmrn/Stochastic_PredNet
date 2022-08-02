@@ -24,7 +24,7 @@ which implements the nowcast methodology described in the paper can be run.
 An example of the input and output files obained with the notebook is shown below.
 To get access to the full data set, please contact the authors of the article sending an email to marino.marrocu@crs4.it
 
-Copyright 2022 by marino.marrocu@crs4.it
+Copyright 2022 by marino.marrocu@crs4.it and luca.massidda@crs4.it
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
