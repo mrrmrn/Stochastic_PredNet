@@ -24,6 +24,15 @@ which implements the nowcast methodology described in the paper can be run.
 An example of the input and output files obained with the notebook is shown below.
 To get access to the full data set, please contact the authors of the article sending an email to marino.marrocu@crs4.it
 
+Copyright 2022 by marino.marrocu@crs4.it
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  
+
 An example of data input: one hour of observations
 ![obs_ass](https://user-images.githubusercontent.com/32863682/182146554-100d361d-9001-456b-8a4b-35a69f0fd7d8.png)
 The same data "assimilated" in the PredNet
