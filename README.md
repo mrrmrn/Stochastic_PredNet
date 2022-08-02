@@ -16,9 +16,7 @@ pip3 install torch torchvision (for references point to: https://pytorch.org/)
 
 pip install pysteps (for references point to: https://pysteps.github.io/)
 
-the notebook: 
-
-Stochastic_PredNet.ipynb
+the notebook: Stochastic_PredNet.ipynb
 
 which implements the nowcast methodology described in the paper can be run.
 An example of the input and output files obained with the notebook is shown below.
