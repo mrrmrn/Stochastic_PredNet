@@ -12,9 +12,9 @@ submitted for pubblication to MDPI journal : "Remote Sensing".
 
 After installing torch and pysteps libraries, for example with:
 
-pip install torch
+pip3 install torch torchvision (for references point to: https://pytorch.org/)
 
-pip install pysteps
+pip install pysteps (for references point to: https://pysteps.github.io/)
 
 the notebook: 
 
