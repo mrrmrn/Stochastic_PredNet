@@ -34,7 +34,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # An example
 
 Input data: one hour of observations
-![obs_ass](https://user-images.githubusercontent.com/32863682/182146554-100d361d-9001-456b-8a4b-35a69f0fd7d8.png)
+![obs_ass](https://user-images.githubusercontent.com/32863682/182308793-5b4997dd-caa5-4e4a-b164-4dab7fcdd5a9.png)
 The same data "assimilated" in the PredNet
 ![NN_ass](https://user-images.githubusercontent.com/32863682/182146795-dcc32b60-5e7e-4bfc-a838-c31a9a047920.png)
 Two corresponding perturbed scenarios
