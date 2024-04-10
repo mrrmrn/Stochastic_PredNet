@@ -6,9 +6,7 @@ The map of Japan in which is highlighted the area that represents the domain cov
 
 Repository for codes and a sample of data for the paper:
 
-"Coupling a neural network with a spatial dowscaling procedure to improve probabilistic nowcast for urban rain radars"
-
-submitted for pubblication to MDPI journal : "Remote Sensing".
+Marrocu, M.; Massidda, L. Coupling a Neural Network with a Spatial Downscaling Procedure to Improve Probabilistic Nowcast for Urban Rain Radars. Forecasting 2022, 4, 845-865. https://doi.org/10.3390/forecast4040046 
 
 After installing torch and pysteps libraries, for example with:
 
