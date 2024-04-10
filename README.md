@@ -10,7 +10,7 @@ Marrocu, M.; Massidda, L. Coupling a Neural Network with a Spatial Downscaling P
 
 After installing torch and pysteps libraries, for example with:
 
-pip3 install torch torchvision (for references point to: https://pytorch.org/)
+pip install torch torchvision (for references point to: https://pytorch.org/)
 
 pip install pysteps (for references point to: https://pysteps.github.io/)
 
